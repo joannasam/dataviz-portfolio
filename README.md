@@ -24,6 +24,4 @@ Here are some of the things I would like to learn from this class -
 
 # Portfolio
 
-## Visualizing Government Debt
-- Web page URL: https://joannasam.github.io/dataviz-portfolio/visualizing-govt-debt
-- This repository: https://github.com/joannasam/dataviz-portfolio/visualizing-govt-debt.md
+## [Visualizing Government Debt](https://joannasam.github.io/dataviz-portfolio/visualizing-govt-debt.html)
