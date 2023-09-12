@@ -2,8 +2,8 @@
 
 This is my public portfolio for the class 94-870 'Telling Stories with Data' at CMU.
 
-- Web page URL: https://joannasam.github.io/dataviz-portfolio/
-- This repository: https://github.com/joannasam/dataviz-portfolio/
+- [Web page URL](https://joannasam.github.io/dataviz-portfolio/)
+- [This repository](https://github.com/joannasam/dataviz-portfolio/)
 
 # About me
 Hi! I'm Joanna Sam.
