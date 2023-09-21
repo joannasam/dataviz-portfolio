@@ -1,7 +1,13 @@
 # The Oxford Comma
 [Go back to main page](https://joannasam.github.io/dataviz-portfolio/)
 
-This data visualization is from the article “Elitist, Superfluous, Or Popular? We Polled Americans on the Oxford Comma” on the website FiveThirtyEight. It is based on the comma-survey dataset. The intent of the article is to explore the demographics of Oxford comma users vs. non-users.
+# The Visualization 
+
+![Oxford Comma](Oxford Comma.png)
+
+This data visualization is from the article [“Elitist, Superfluous, Or Popular? We Polled Americans on the Oxford Comma”](https://fivethirtyeight.com/features/elitist-superfluous-or-popular-we-polled-americans-on-the-oxford-comma/) on the website [FiveThirtyEight](https://abcnews.go.com/538). It is based on the [comma-survey dataset](https://github.com/fivethirtyeight/data/blob/master/comma-survey/comma-survey.csv).
+
+The intent of the article is to explore the demographics of Oxford comma users vs. non-users.
 
 # Observations about the visualization
 
