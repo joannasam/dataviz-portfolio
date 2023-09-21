@@ -24,8 +24,6 @@ Here are some of the things I would like to learn from this class -
 
 # Portfolio
 
-Assignment 2
 ## [Visualizing Government Debt](https://joannasam.github.io/dataviz-portfolio/visualizing-govt-debt.html)
 
-Assignment 3 & 4
 ## [The Oxford Comma](https://joannasam.github.io/dataviz-portfolio/oxford-comma.html)
