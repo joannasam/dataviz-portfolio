@@ -10,7 +10,7 @@ Improved attitudes towards mental health in the workplace could lead to better m
 The key takeaway for the reader is that increased awareness of mental health can foster a supportive workplace environment. 
 The call to action is to be open to mental health discussions within and without the workplace to help erase shame and stigma.
 
-Story Structure
+The Story
 
 - Global Trends/Prevalence of Mental Health Disorders
 - Employee Demographics
