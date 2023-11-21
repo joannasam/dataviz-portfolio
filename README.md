@@ -30,4 +30,4 @@ Here are some of the things I would like to learn from this class -
 
 # Final Project | Workplace Attitudes Towards Mental Health
 
-## [Part One](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html))
+## [Part One](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html)
