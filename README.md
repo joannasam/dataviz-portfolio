@@ -27,3 +27,7 @@ Here are some of the things I would like to learn from this class -
 ## [Visualizing Government Debt](https://joannasam.github.io/dataviz-portfolio/visualizing-govt-debt.html)
 
 ## [The Oxford Comma](https://joannasam.github.io/dataviz-portfolio/oxford-comma.html)
+
+# Final Project | Workplace Attitudes Towards Mental Health
+
+## [Part One](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html))
