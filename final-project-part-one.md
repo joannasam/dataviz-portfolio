@@ -52,27 +52,27 @@ Story Structure
   - By Location (Heat Map)
   - By Year (Line Chart)
 
-![Mental Health Prevalence](Final-Project-Sketch-Mental-Health-Prevalence.heic)
+![Mental Health Prevalence](Final-Project-Sketch-Mental-Health-Prevalence.jpg)
     
 - Employee Demographics and Mental Health Effects on Productivity
   - By Gender (Pie Chart)
   - By Age (Histogram)
   - By Location (Heat Map)
 
-![Employee Demographics](Final-Project-Sketch-Employee-Demographics.heic)
+![Employee Demographics](Final-Project-Sketch-Employee-Demographics.jpg)
 
 - Organizational Attitudes
   - Mental Health Benefits, Leaves and Resources
   - Coworker/Supervisor Attitudes
   - Negative Consequences to Open Discussion
  
-![Organizational Attitudes](Final-Project-Sketch-Organizational-Attitudes.heic)
+![Organizational Attitudes](Final-Project-Sketch-Organizational-Attitudes.jpg)
 
 - Employee Outcomes based on Organizational Attitudes
   - Likelihood of Seeking Help
   - Likelihood of Seeking Treatment
  
-![Employee Outcomes](Final-Project-Sketch-Employee-Outcomes.heic)
+![Employee Outcomes](Final-Project-Sketch-Employee-Outcomes.jpg)
 
 # Method & Medium
 
