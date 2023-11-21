@@ -3,8 +3,8 @@
 
 # The Outline
 
-This project visualizes attitudes towards mental health in the workplace and their effect on employee mental health outcomes.
-The datasets selected for this project consist of employee mental health surveys as well as global mental health statistics.
+This project visualizes attitudes towards mental health struggles in the workplace and its effect on employee mental health outcomes.
+The datasets selected for this project consist of employee mental health surveys, as well as global mental health statistics.
 
 Improved attitudes towards mental health in the workplace could lead to better mental health outcomes in employees, increase the likelihood of seeking help & treatment and improve organizational productivity.
 The key takeaway for the reader is that increased awareness of mental health can foster a supportive workplace environment. 
