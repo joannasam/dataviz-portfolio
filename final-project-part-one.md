@@ -16,7 +16,7 @@ The Story
 - Employee Demographics
 - Organizational Attitudes
 - Effect of Organizational Attitudes on Employee Mental Health Outcomes
-- Conclusion
+- Findings & Conclusion
 
 # The Data
 
