@@ -1,4 +1,4 @@
-# Final Project I - Workplace Attitudes towards Mental Health
+# Final Project II - Workplace Attitudes towards Mental Health
 [Go back to main page](https://joannasam.github.io/dataviz-portfolio/)
 
 # Wireframes and Storyboards
