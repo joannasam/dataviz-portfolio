@@ -42,7 +42,7 @@ Yes - I would be supportive of any colleagues who reach out to me for support.
 5. Is there anything you would like to change in the presentation?
 I would make the story more streamlined and cohesive.
 
-## Interview 2 - MISM Student (24), Heinz College, Carnegie Mellon University
+## Interview 2 - MISM-BIDA Student (25), Heinz College, Carnegie Mellon University
 
 1. What do you like, or dislike about this storyboard?
 I liked the tool used for the storyboard. It's a great way to present a story. I liked the data that was presented to support the story - however I wish it was all **tied together a little better.**
@@ -60,7 +60,7 @@ Yes - I would offer support and resources. However, there should be **formal sys
 5. Is there anything you would like to change in the presentation?
 I would make the ending more impactful.
 
-## Interview 3 - MISM Student (24), Heinz College, Carnegie Mellon University
+## Interview 3 - MISM Student (25), Heinz College, Carnegie Mellon University
 
 1. What do you like, or dislike about this storyboard?
 I like the story. It's succinct and relatable. I like that it offers hope.
