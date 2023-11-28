@@ -98,7 +98,7 @@ You should include organizational impact and **actionable solutions for corporat
 # User Research Findings
 
 Here is a summary of findings from the interviews
-- Make the story more streamlined and cohesive. The visualizations and are a little disjoint.
+- Make the story more streamlined and cohesive. The visualizations are still a little disjoint.
 - Make the ending more impactful.
 - Highlight the effects on organizational productivity to make the argument more compelling.
 - Present possible actionable solutions and resources.
