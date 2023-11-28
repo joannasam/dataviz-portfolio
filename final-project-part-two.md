@@ -3,7 +3,7 @@
 
 # Wireframes and Storyboards
 
-Below is a storyboard bringing the data life through a story following Emily - a graduate student at Carnegie Mellon University - who struggled with her mental health and found help and support in faculty and peers.
+Below is a storyboard bringing the data life through a story following Emily - a graduate student at Carnegie Mellon University - who struggled with her mental health and found help and support through faculty and peers.
 
 - The storyboard below has been created using Shorthand.
 - The wireframes have been developed in Python by providing prompts to ChatGPT.
