@@ -12,33 +12,82 @@ Below is a storyboard bringing the data life through a story following Emily - a
 
 # User Research Protocol
 
+The target audience for this project consists of students who are soon to enter the workforce. The representative individuals interviewed for the user research consist of graduate students who are in their final semester at Heinz College.
+
+Below is a brief script of the the interview -
+
+1. What do you like, or dislike about this storyboard?
+2. Did you connect to Emily's story? How helpful were the visualizations?
+3. How do you feel about workplace attitudes towards mental health after walking through this storyboard?
+4. Are you open to supporting colleagues in your future workplace were they to reach out to you?
+5. Is there anything you would like to change in the presentation?
+
 # User Research Interviews
 
-- [Mental Health in Tech Survey (2014) 50 kB/27 Attributes](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/)
+## Interview 1 - MISM Student (24), Heinz College, Carnegie Mellon University
 
-  This dataset consists of employee surveys capturing the following:
-  
-  - Demographics (Age, Gender, Location)
-  - Nature of Employment (Self-employed/Tech/Non-Tech, Remote/Non-Remote)
-  - Mental Health (Family History, Treatment, Work Interference)
-  - Organizational Attitudes (Benefits, Leaves, Negative Consequences, Coworker/Supervisor Attitudes)
-  - Employee Behavior (Seeking Help/Treatment, Comments)
-  
-- [OSMI Mental Health in Tech Survey (2016) 14 MB/63 Attributes](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
+1. What do you like, or dislike about this storyboard?
+I like the storyboard. I feel like it could be **refined to be more streamlined and cohesive**. I like the interleaving of the story with data visualizations. 
 
-  This dataset captures data from 2016 along the same lines as above, however it dives deeper into employer attitudes and employee outcomes.
+2. Did you connect to Emily's story? How helpful were the visualizations?
+I found the story quite relatable, being a CMU student myself. I completely understand the pressures protagonist faced.
+I wish the **visualizations were more detailed and impactful**.
 
-- [Global Trends in Mental Health Disorder (2019) 1 MB/11 Attributes](https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder)
+3. How do you feel about workplace attitudes towards mental health after walking through this storyboard?
+I believe in mental health advocacy. I'm glad that this is being discussed.
 
-  This dataset captures the percentage distribution of various mental health disorders across the globe over the years, including:
-  
-  - Schizophrenia
-  - Bipolar Disorder
-  - Eating Disorders
-  - Depression
-  - Anxiety
-  - Drug Use
-  - Alcohol Use
+4. Are you open to supporting colleagues in your future workplace were they to reach out to you?
+Yes - I would be supportive of any colleagues who reach out to me for support.
 
+5. Is there anything you would like to change in the presentation?
+I would make the story more streamlined and cohesive.
 
+## Interview 2 - MISM Student (24), Heinz College, Carnegie Mellon University
 
+1. What do you like, or dislike about this storyboard?
+I liked the tool used for the storyboard. It's a great way to present a story. I liked the data that was presented to support the story - however I wish it was all **tied together a little better.**
+
+2. Did you connect to Emily's story? How helpful were the visualizations?
+Yes, I connected to Emily. The visualizations provided a lot of perspective, because I'm sure there are many students and employees in a similar place.
+
+3. How do you feel about workplace attitudes towards mental health after walking through this storyboard?
+I'm curious what we could do to improve workplace attitudes. At the end of the day, the workplace is a very competitive place and change is not neccessarily easy. Maybe you could include links to mental health resources in your presentation to help raise awareness.
+That could **make the ending more compelling.**
+
+4. Are you open to supporting colleagues in your future workplace were they to reach out to you?
+Yes - I would offer support and resources. However, there should be **formal systems to make such discussions easier and appropriate** - for example, formal means for any employee to raise concerns about their own wellbeing.
+
+5. Is there anything you would like to change in the presentation?
+I would make the ending more impactful.
+
+## Interview 3 - MISM Student (24), Heinz College, Carnegie Mellon University
+
+1. What do you like, or dislike about this storyboard?
+I like the story. It's succinct and relatable. I like that it offers hope.
+
+2. Did you connect to Emily's story? How helpful were the visualizations?
+Emily's story is very relatable, for international students in particular. The visualizations were clean, straightforward and helped drive the story home.
+
+3. How do you feel about workplace attitudes towards mental health after walking through this storyboard?
+I feel like this is such a sensitive subject. It can be so difficult to discuss this at work - but I can also see how it has an impact on productivity.
+Maybe you could **emphasize the benefit to overall organizational productivity more.**
+
+5. Are you open to supporting colleagues in your future workplace were they to reach out to you?
+I would be supportive, however I think that any workplace should be prepared and flexbile in order to manage such situations.
+In this case, peers and faculty were able to help Emily out. Realistically, real-world clients, deliverables and the corporate environment can be unforgiving.
+It's food for thought how a supportive environment can actually be achieved.
+
+6. Is there anything you would like to change in the presentation?
+You should include organizational impact and **actionable solutions for corporate environments** to improve in this regard.
+
+# User Research Findings
+
+Here is a summary of findings from the interviews
+- Make the story more streamlined and cohesive. The visualizations and are a little disjoint.
+- Make the ending more impactful.
+- Highlight the effects on organizational productivity to make the argument more compelling.
+- Present possible actionable solutions and resources.
+
+The story would benefit from selecting visualizations more carefully in order to support the story better - for example, dive into specific demographics.
+The visualizations need to be more compelling and impactful - perhaps by highlighting actual insights found in the data rather than just presenting statistics.
+The call to action could be strengthened further by including resources to raise awareness, and discussing possible actionable solutions.
