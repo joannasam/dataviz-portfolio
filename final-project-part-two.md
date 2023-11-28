@@ -32,7 +32,7 @@ I like the storyboard. I feel like it could be **refined to be more streamlined 
 
 2. Did you connect to Emily's story? How helpful were the visualizations?
 
-I found the story quite relatable, being a CMU student myself. I completely understand the pressures protagonist faced.
+I found the story quite relatable, being a CMU student myself. I completely understand the pressures that the protagonist faced.
 I wish the **visualizations were more detailed and impactful**.
 
 3. How do you feel about workplace attitudes towards mental health after walking through this storyboard?
