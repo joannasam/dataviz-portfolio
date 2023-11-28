@@ -3,8 +3,12 @@
 
 # Wireframes and Storyboards
 
-<script src="https://carnegiemellon.shorthandstories.com/workplace-attitudes-towards-mental-health/embed.js"></script>
+Below is a storyboard bringing the data life through a story following Emily - a graduate student at Carnegie Mellon University - who struggled with her mental health and found help and support in faculty and peers.
 
+- The storyboard below has been created using Shorthand.
+- The wireframes have been developed in Python by providing prompts to ChatGPT.
+
+<script src="https://carnegiemellon.shorthandstories.com/workplace-attitudes-towards-mental-health/embed.js"></script>
 
 # User Research Protocol
 
