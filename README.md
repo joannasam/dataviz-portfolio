@@ -1,3 +1,5 @@
+[Visualizing Government Debt](https://joannasam.github.io/dataviz-portfolio/visualizing-govt-debt.html) | [The Oxford Comma](https://joannasam.github.io/dataviz-portfolio/oxford-comma.html) | [Part One - Outline, Data and Medium](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html) | [Part Two - Wireframes, Storyboards and User Research](https://joannasam.github.io/dataviz-portfolio/final-project-part-two.html) | [Part Three - The Story](https://joannasam.github.io/dataviz-portfolio/final-project-part-three.html)
+
 # dataviz-portfolio
 
 This is my public portfolio for the class 94-870 'Telling Stories with Data' at CMU.
