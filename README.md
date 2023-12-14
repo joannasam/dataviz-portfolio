@@ -33,3 +33,5 @@ Here are some of the things I would like to learn from this class -
 ## [Part One - Outline, Data and Medium](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html)
 
 ## [Part Two - Wireframes, Storyboards and User Research](https://joannasam.github.io/dataviz-portfolio/final-project-part-two.html)
+
+## [Part Three - The Story](https://joannasam.github.io/dataviz-portfolio/final-project-part-three.html)
