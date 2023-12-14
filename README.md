@@ -1,4 +1,4 @@
-[Visualizing Government Debt](https://joannasam.github.io/dataviz-portfolio/visualizing-govt-debt.html) | [The Oxford Comma](https://joannasam.github.io/dataviz-portfolio/oxford-comma.html) | [Final Project I](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html) | [Final Project II]https://joannasam.github.io/dataviz-portfolio/final-project-part-two.html) | [Final Project III](https://joannasam.github.io/dataviz-portfolio/final-project-part-three.html)
+[Visualizing Government Debt](https://joannasam.github.io/dataviz-portfolio/visualizing-govt-debt.html) | [The Oxford Comma](https://joannasam.github.io/dataviz-portfolio/oxford-comma.html) | [Final Project I](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html) | [Final Project II](https://joannasam.github.io/dataviz-portfolio/final-project-part-two.html) | [Final Project III](https://joannasam.github.io/dataviz-portfolio/final-project-part-three.html)
 
 # dataviz-portfolio
 
