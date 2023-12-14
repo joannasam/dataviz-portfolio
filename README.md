@@ -30,7 +30,7 @@ Here are some of the things I would like to learn from this class -
 
 ## [The Oxford Comma](https://joannasam.github.io/dataviz-portfolio/oxford-comma.html)
 
-# Final Project | Workplace Attitudes Towards Mental Health
+# Final Project | The Balancing Act: Opening Up About Mental Health at the Workplace
 
 ## [Part One - Outline, Data and Medium](https://joannasam.github.io/dataviz-portfolio/final-project-part-one.html)
 
